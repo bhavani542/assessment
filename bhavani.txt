@@ -1,0 +1,49 @@
+Bachelor’s or master’s degree in computer science, Software Engineering, or a related field
+Proven experience in software engineering project management or a similar role, with a proven track record of successful project delivery
+Experience with modern software development practices, such as CI/CD, DevOps, and version control systems (e.g., Git)
+Experience in managing budgets and project finances
+Expertise in software development methodologies, including Agile and Scrum
+Solid knowledge of programming languages and frameworks (e.g., Java, Python, .NET)
+Proficiency in project management tools and software (e.g., JIRA, Trello)
+Proven excellent understanding of software architecture and design principles
+Proven excellent leadership and team management skills, with the ability to motivate and guide a team of software engineering professionals 
+Proven exceptional communication and interpersonal skills, with the aptitude to engage effectively with technical and non-technical stakeholders 
+Proven analytical and problem-solving abilities, with keen attention to detail 	
+Primary Responsibilities
+
+Define and execute the long-term vision and strategic roadmap for software solutions, aligning it with overall business objectives and enterprise standards
+Lead and manage the end-to-end delivery of software projects, ensuring they are completed on time, within scope, and budget
+Lead technical discussions with development teams
+Develop and maintain detailed project plans, including resource allocation, timelines, and risk management strategies
+Coordinate with product managers, developers, QA teams, and other stakeholders to ensure alignment and successful execution of project objectives
+Serve as the primary point of contact for clients, providing regular updates, managing expectations, and addressing any issues or concerns
+Ensure the quality of deliverables through rigorous testing and adherence to industry standards
+Foster an agile, collaborative, and performance-driven team environment, encouraging continuous improvement and innovation
+Identify and resolve technical and project-related roadblocks, working proactively to mitigate risks
+Manage the project budget, including tracking expenditures and ensuring cost-effectiveness
+Implement best practices in technical project management, keeping up-to-date with the latest industry trends and technologies
+People manager of software engineering delivery teams
+Mentor and develop team members, providing guidance and support to enhance their professional growth
+Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+
+Required Qualifications
+
+Bachelor’s or master’s degree in computer science, Software Engineering, or a related field
+Proven experience in software engineering project management or a similar role, with a proven track record of successful project delivery
+Experience with modern software development practices, such as CI/CD, DevOps, and version control systems (e.g., Git)
+Experience in managing budgets and project finances
+Expertise in software development methodologies, including Agile and Scrum
+Solid knowledge of programming languages and frameworks (e.g., Java, Python, .NET)
+Proficiency in project management tools and software (e.g., JIRA, Trello)
+Proven excellent understanding of software architecture and design principles
+Proven excellent leadership and team management skills, with the ability to motivate and guide a team of software engineering professionals 
+Proven exceptional communication and interpersonal skills, with the aptitude to engage effectively with technical and non-technical stakeholders 
+Proven analytical and problem-solving abilities, with keen attention to detail
+
+Preferred Qualifications
+
+Experience with cloud platforms (e.g., AWS, Azure, Google Cloud) and related services
+Experience with database systems and SQL (e.g., MySQL, PostgreSQL, MongoDB)
+Solution architecture experience
+Knowledge of modern front-end frameworks (e.g., React, Angular) and back-end frameworks (e.g., Node.js, Spring Boot)
+Familiarity with software security best practices and protocols
